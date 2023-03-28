@@ -1,0 +1,71 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+.listItem {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.profile {
+  height: 75px;
+  width: 75px;
+  border-radius: 50px;
+  padding: 29x;
+  color: #fff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 20px;
+}
+.row2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+span {
+  color: #475569;
+  font-size: 20px;
+}
+.btn {
+  border: none;
+  background-color: #0000;
+}
+.liked {
+  color: #007bff;
+}
+.unliked {
+  color: #94a3b8;
+}
